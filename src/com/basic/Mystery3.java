@@ -10,9 +10,9 @@ package com.basic;
 		 {
 		 column = 1;
 
-		 while ( column <= 10 )
+		 while ( column <= 10)
 		 {
-		 System.out.print( row % 2 == 1 ? "<" : ">" );
+		 System.out.println(row%2==1?"<":">" );
 		 ++column;
 		 }
 
