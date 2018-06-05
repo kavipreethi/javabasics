@@ -10,6 +10,6 @@ public class DataTypeExamples {
 			   System.out.println(10);
 		
 	}
-
+ 
 }
  
