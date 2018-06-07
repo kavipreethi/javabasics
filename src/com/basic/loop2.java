@@ -3,11 +3,15 @@ package com.basic;
 public class loop2 {
 	public static void main(String[]args)
 	{
-	double k;
+int k=5;
 
-for (k= 0.1; k != 1.0; k += 0.1 )
-System.out.println( k );
-
-
-	}
+for ( k= 0;k<5;k++) {
+System.out.println( "k="+k );
+if(k==2)
+{
+    break;
 }
+
+	
+
+}}}

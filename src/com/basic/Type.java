@@ -5,7 +5,11 @@ public class Type {
 	{
 	int x=10,y=12,z;
 	z = x<y ? x : y;
+	//++x;
+	//y++;
 	System.out.println(z);
+	//System.out.println(y);
+	
 	}
 
 }
